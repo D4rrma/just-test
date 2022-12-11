@@ -28,6 +28,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
+	width: 100%;
 }
 
 .child:nth-child(1n) {
