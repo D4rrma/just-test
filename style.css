@@ -32,35 +32,35 @@ body {
 
 .child:nth-child(1n) {
 	background-color: darkorchid;
-	flex: 0 0 100%;
+	flex: 0 0 50%;
 }
 
 .child:nth-child(2n) {
 	background-color: indigo;
-	flex: 0 0 100%;
+	flex: 0 0 50%;
 }
 
 .child:nth-child(3n) {
 	background-color: navy;
-	flex: 0 0 100%;
+	flex: 0 0 50%;
 }
 
 .child:nth-child(4n) {
 	background-color: palegreen;
-	flex: 0 0 100%;
+	flex: 0 0 50%;
 }
 
 .child:nth-child(5n) {
 	background-color: yellow;
-	flex: 0 0 100%;
+	flex: 0 0 50%;
 }
 
 .child:nth-child(6n) {
 	background-color: orange;
-  flex: 0 0 100%;
+  flex: 0 0 50%;
 }
 
 .child:nth-child(7n) {
 	background-color: tomato;
-  flex: 0 0 100%;
+  flex: 0 0 50%;
 }
